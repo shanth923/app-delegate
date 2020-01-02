@@ -1,0 +1,6 @@
+framework module Pods_SingletonUITests {
+  umbrella header "Pods-SingletonUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
